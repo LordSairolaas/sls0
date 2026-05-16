@@ -1,0 +1,22 @@
+{
+    "La. Lord": {
+        "edit_users": true,
+        "view_blockchain": true,
+        "edit_perms": true
+    },
+    "Lord": {
+        "edit_users": true,
+        "view_blockchain": true,
+        "edit_perms": false
+    },
+    "Manager": {
+        "edit_users": false,
+        "view_blockchain": true,
+        "edit_perms": true
+    },
+    "User": {
+        "edit_users": false,
+        "view_blockchain": false,
+        "edit_perms": false
+    }
+}
